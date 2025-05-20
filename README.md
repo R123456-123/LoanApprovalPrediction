@@ -10,7 +10,6 @@ This project uses **machine learning algorithms** to assist banks by predicting 
 
 ## 📁 Dataset
 
-📥 **[Download Dataset](#)**  
 The dataset contains 13 features:
 
 | Feature              | Description                                                        |
