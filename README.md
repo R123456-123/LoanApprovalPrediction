@@ -16,12 +16,12 @@ The dataset contains 13 features:
 
 | Feature              | Description                                                        |
 |----------------------|--------------------------------------------------------------------|
-| `Loan_ID`            | Unique loan identifier (dropped during preprocessing)             |
-| `Gender`             | Gender of applicant: Male/Female                                  |
-| `Married`            | Marital status: Yes/No                                            |
+| `Loan_ID`            | Unique loan identifier (dropped during preprocessing)              |
+| `Gender`             | Gender of applicant: Male/Female                                   |
+| `Married`            | Marital status: Yes/No                                             |
 | `Dependents`         | Number of dependents                                               |
-| `Education`          | Graduate/Not Graduate                                             |
-| `Self_Employed`      | Employment type: Yes/No                                           |
+| `Education`          | Graduate/Not Graduate                                              |
+| `Self_Employed`      | Employment type: Yes/No                                            |
 | `ApplicantIncome`    | Income of applicant                                                |
 | `CoapplicantIncome`  | Income of co-applicant                                             |
 | `LoanAmount`         | Loan amount in thousands                                           |
